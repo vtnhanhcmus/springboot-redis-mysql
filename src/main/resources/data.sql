@@ -1,0 +1,1 @@
+INSERT INTO student (id, name, age, created_date) values ('0a818933-087d-47f2-ad83-2f986ed087eb', 'David', 12, CURRENT_TIMESTAMP);
